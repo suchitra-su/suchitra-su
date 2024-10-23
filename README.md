@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suchitra Jana</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Interested+in+UI+design!;A+passionate+frontend+developer+from+India!!;&center=true&width=500&height=50"></a>
+</p>
 <img align="right" alt="coding" width="400" style="background-color: white; " src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suchitra-su&label=Profile%20views&color=0e75b6&style=flat" alt="suchitra-su" /> </p>
 
